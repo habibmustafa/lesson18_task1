@@ -1,3 +1,4 @@
 # lesson18_task1
 
-# Update Readme.md
+There is a 'file' with information about laptops.
+The information has been changed.
